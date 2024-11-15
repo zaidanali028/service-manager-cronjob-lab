@@ -8,7 +8,7 @@ This project contains a Python script (`manage_service.py`) designed to automate
 
 ## Prerequisites
 
-- **OS**: Unix-based systems (Linux)
+- **OS**: Unix-based systemsf (Linux)
 - **Python**: Python 3 must be installed.
 - **Permissions**: Requires root or sudo privileges to restart services.
 
@@ -46,7 +46,7 @@ The `tempfile` module generates temporary files and directories, ensuring they a
 
 ## Setup Instructions
 
-### Step 1: Clone or Create the Directory
+### Step 1: Create the Directory
 
 If not already created, set up a directory for cron jobs:
 ```bash
